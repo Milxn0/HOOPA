@@ -1,2 +1,0 @@
-# HOOPA: keys turned off. <Device ID> <keys made before this time stop> <name>
-F88939AC5B20277C 202611122300 SUNNY
